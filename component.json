@@ -1,0 +1,9 @@
+{
+  "name": "jumbotron",
+  "repo": "bscomp/jumbotron",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
